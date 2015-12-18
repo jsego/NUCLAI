@@ -1,0 +1,12 @@
+Properties of Interactive Agents
+================================
+
+Autonomous
+    Software systems always react to the human interaction but it the case of Interactive Agents is not always necessary, they can deal with objectives on their own.
+
+Learning
+    Interactive Agents can learn after playing a game with humans or other computers trying to improve many features like difficulty, fun, optimization, co-operation, and so on
+
+Responsiveness
+	There is a high expectation of the user that interacts with the agents of the game. Users use to think about NPCs as if they were real players, and they want NPCs to perform fast, so AI can take too many time to decide what to do.
+

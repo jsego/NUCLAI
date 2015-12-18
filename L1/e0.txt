@@ -1,0 +1,44 @@
+Architecting HAL9000
+====================
+
+----
+
+Computation Phases
+==================
+
+* Sense
+
+    - Read written sentences
+	- Language english
+
+* Think
+
+    - Language processing to reason about the conversation (common goal, adversarial, ...)
+	- Predict user intentions
+	- Sentence generation
+
+* Act
+    
+	- Write the generated sentence
+	- Interaction with the spaceship
+
+
+----
+
+Functional Layers
+=================
+
+Animation
+	- Print generated sentences in the terminal
+	- Interaction with the spaceship (doors open/close, lights, ...)
+
+Locomotion
+	- Physics of acceleration/deceleration of objects like doors
+	- Sense of gravity
+	- Spaceship bounds (walls, floor, roof, ...)
+
+Navigation
+	- Reply correct information to move between rooms
+
+Tactics
+	- To reasong about the conversation (common goal, adversarial, ...)

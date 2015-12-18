@@ -1,0 +1,29 @@
+Interfacing with HAL9000
+========================
+
+----
+
+External Data vs. Internal Memory
+=================================
+
+* Internal Memory
+
+	- Information about the conversation with the user, because we may know in a higher level how is the dialogue going, what is the goal, if the user is trying to cheat...
+	- Update information of the gramatical structures and lexic to adapt to a dialogue.
+
+* External Data
+
+    - What the user writes in the terminal
+
+----
+
+Push vs. Pull
+=============
+
+* Polling
+
+    - The input sentences of the user.
+
+* Events
+
+    - Process output data after receiving the user input.

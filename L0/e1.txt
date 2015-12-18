@@ -1,0 +1,94 @@
+Racing Driver
+
+=============
+
+
+
+* Input Information
+
+
+
+	- Terrain structure
+
+	- Nearby entities
+
+	- Player position & state
+
+
+* Output Generated
+
+
+
+	- Action control
+
+	- Progressive difficulty 
+
+
+
+----
+
+
+
+Card Game Opponent
+
+==================
+
+
+
+* Input Information
+
+
+
+	- Player progression
+
+	- Game state
+
+	- Turn indicator
+
+	- Cards information
+
+
+
+* Output Generated
+
+
+
+	- Move sequence
+
+	- Cards animation
+
+
+----
+
+
+
+Squad Leader
+
+============
+
+
+
+* Input Information
+
+
+
+	- Status of players
+
+	- Squad location
+
+	- Mission objectives
+
+	- Enemies places
+
+
+
+* Output Generated
+
+
+
+	- Individual movement
+
+	- Action control
+
+	- Micromanagement (Squad orders)
+
